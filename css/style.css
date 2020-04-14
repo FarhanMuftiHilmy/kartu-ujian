@@ -1,0 +1,156 @@
+#nav{
+	position: absolute;
+	width: 1440px;
+	height: 86px;
+	left: 0px;
+	top: 0px;
+
+	background: #F9F9F9;
+}
+#nav .nav-title{
+	position: absolute;
+	width: 1440px;
+	height: 38px;
+	left: 0px;
+	top: 24px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	line-height: 37px;
+	/* identical to box height */
+
+	text-align: center;
+
+	color: #000000;
+}
+#content{
+	position: absolute;
+	width: 398px;
+	height: 612px;
+	left: 521px;
+	top: 126px;
+
+	border: 1px solid #DDDDDD;
+	box-sizing: border-box;
+	border-radius: 8px;
+}
+.rectangle{
+	position: absolute;
+	width: 286px;
+	height: 286px;
+	left: 56px;
+	top: 56px;
+
+	background: #DDDDDD;
+	border-radius: 8px;
+}
+.box{
+	position: absolute;
+	width: 237px;
+	height: 114px;
+	left: 81px;
+	top: 142px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	line-height: 37px;
+	text-align: center;
+
+	color: #C4C4C4;
+}
+img{
+	width:100%;
+}
+.name h1{
+	position: absolute;
+	width: 286px;
+	height: 38px;
+	left: 56px;
+	top: 374px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	line-height: 37px;
+	/* identical to box height */
+
+	text-align: center;
+
+	color: #000000;
+}
+.prodi h1{
+	position: absolute;
+	width: 286px;
+	height: 28px;
+	left: 56px;
+	top: 428px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+
+	color: #000000;
+}
+.univ h1{
+	position: absolute;
+	width: 286px;
+	height: 19px;
+	left: 56px;
+	top: 472px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 19px;
+	/* identical to box height */
+
+	text-align: center;
+	text-decoration-line: underline;
+
+	color: #000000;
+}
+.moto h1{
+	position: absolute;
+	width: 286px;
+	height: 19px;
+	left: 56px;
+	top: 507px;
+
+	font-family: Roboto;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 19px;
+	/* identical to box height */
+
+	text-align: center;
+
+	color: #000000;
+}
+.copyright h1{
+	position: absolute;
+	width: 286px;
+	height: 14px;
+	left: 56px;
+	top: 542px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 14px;
+	/* identical to box height */
+
+	text-align: center;
+
+	color: #888888;
+}
